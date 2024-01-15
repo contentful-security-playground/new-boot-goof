@@ -1,4 +1,5 @@
-AWS_ACCESS_KEY_ID = AKIAIOSFODNN7EXAMPLE
-AWS_SECRET_ACCESS_KEY = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-aws_access_key_id = AKIAIOSFODNN7EXAMPLE
-aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+[default]
+aws_access_key_id = AKIAQYLPMN5HJL2LW4LJ
+aws_secret_access_key = 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
+output = json
+region = us-east-2
